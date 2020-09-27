@@ -1,0 +1,16 @@
+[
+{
+  "modid": "riskofmine",
+  "name": "Risk Of Mine",
+  "description": "Adding for Minecraft things from the game Risk Of Rain 2.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rumaruka"],
+  "credits": "The idea of items and  mechanic pertain to the Hopoo Games, I just add to the game",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

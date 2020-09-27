@@ -1,0 +1,19 @@
+itemGroup.riskofmine=Risk Of Mine
+
+#Messages
+message.welcome=Thank you to dowloading this mod.
+message.welcome_n=Please check original game (Risk of Rain 2) and support Hopoo Game studio
+
+#Blocks
+
+#Items
+item.armor_piercing_rounds.name=Armor-Piercing Rounds
+item.bustling_fungus.name=Bustling Fungus
+item.monster_tooth.name=Monster Tooth
+item.shaped_glass.name=Shaped Glass
+
+#Info
+ror.shiftpress.info=Press SHIFT for more info:
+ror.apr.info=Increases damage to bosses in
+ror.bf.info=After standing still for 2 seconds heal in
+ror.mt.info=Heal after killed in 40%
